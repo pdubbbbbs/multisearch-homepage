@@ -1,0 +1,15 @@
+{
+  "homepage": "file:///E:/brave-homepage/index.html",
+  "homepage_is_newtabpage": false,
+  "session": {
+    "restore_on_startup": 4,
+    "startup_urls": ["file:///E:/brave-homepage/index.html"]
+  },
+  "browser": {
+    "show_home_button": true
+  },
+  "distribution": {
+    "skip_first_run_ui": true,
+    "show_welcome_page": false
+  }
+}
